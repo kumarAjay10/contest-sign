@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contest-sign/static/css/main.e53584c8.css",
+    "main.js": "/contest-sign/static/js/main.e3d97814.js",
+    "index.html": "/contest-sign/index.html",
+    "main.e53584c8.css.map": "/contest-sign/static/css/main.e53584c8.css.map",
+    "main.e3d97814.js.map": "/contest-sign/static/js/main.e3d97814.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e53584c8.css",
+    "static/js/main.e3d97814.js"
+  ]
+}
